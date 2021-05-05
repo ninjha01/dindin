@@ -1,0 +1,3 @@
+* DinDin
+
+  A friendcatcher, written in React w/ a firestore backend

@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/feld1viz/static/css/main.e84f409d.chunk.css",
+    "main.js": "/feld1viz/static/js/main.f4df6693.chunk.js",
+    "main.js.map": "/feld1viz/static/js/main.f4df6693.chunk.js.map",
+    "runtime-main.js": "/feld1viz/static/js/runtime-main.12d43c97.js",
+    "runtime-main.js.map": "/feld1viz/static/js/runtime-main.12d43c97.js.map",
+    "static/css/2.5c573378.chunk.css": "/feld1viz/static/css/2.5c573378.chunk.css",
+    "static/js/2.be12c400.chunk.js": "/feld1viz/static/js/2.be12c400.chunk.js",
+    "static/js/2.be12c400.chunk.js.map": "/feld1viz/static/js/2.be12c400.chunk.js.map",
+    "static/js/3.415b9396.chunk.js": "/feld1viz/static/js/3.415b9396.chunk.js",
+    "static/js/3.415b9396.chunk.js.map": "/feld1viz/static/js/3.415b9396.chunk.js.map",
+    "index.html": "/feld1viz/index.html",
+    "static/css/2.5c573378.chunk.css.map": "/feld1viz/static/css/2.5c573378.chunk.css.map",
+    "static/css/main.e84f409d.chunk.css.map": "/feld1viz/static/css/main.e84f409d.chunk.css.map",
+    "static/js/2.be12c400.chunk.js.LICENSE.txt": "/feld1viz/static/js/2.be12c400.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12d43c97.js",
+    "static/css/2.5c573378.chunk.css",
+    "static/js/2.be12c400.chunk.js",
+    "static/css/main.e84f409d.chunk.css",
+    "static/js/main.f4df6693.chunk.js"
+  ]
+}
